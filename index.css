@@ -1,0 +1,58 @@
+.thanking-customers-section {
+  background-color: skyblue;
+  background-size: cover;
+  height: 100vh;
+}
+.thanking-customers-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.thanking-customers-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.thanking-customers-section-img {
+  width: 270px;
+  margin-bottom: 20px;
+  border-radius: 10px
+}
+.thanking-customers-section-modal-title {
+  color: #d0b200;
+  font-weight: 800;
+}
+.custom-button {
+  color: white;
+  background-image: linear-gradient(#d0b200, #a58d00);
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.modal-content{
+  width: 1000px
+}
+.model-body-img{
+  width:150px;
+  height: 200px;
+}
+.btn{
+    background-color:green;
+    color: #ffffff;
+    border-radius: 15px;
+    height: 40px;
+    width: 150px;
+    border: 0px;
+    padding-bottom:20px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.container{
+  padding:5%;
+  text-align: center;
+
+}
